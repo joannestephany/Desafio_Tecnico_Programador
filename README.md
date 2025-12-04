@@ -4,6 +4,8 @@ Este é projeto de gerenciamento de veículos para o desafio do SergipeTec.
  
 O projeto foi desenvolvido utilizando Java, Javalin, React, Vite e Tailwind CSS e MySQL
 
+![Captura de Tela do FrontEnd](frontend-sergipetec.png) 
+
 ## 📋 Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado em sua máquina:

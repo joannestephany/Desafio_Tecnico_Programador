@@ -2,8 +2,6 @@
 
 Este projeto é uma API REST para gerenciamento de veículos (carros e motos), desenvolvida em Java utilizando o framework Javalin.
 
-![Captura de Tela do FrontEnd](frontend-sergipetec.png) 
-
 ## Pré-requisitos
 
 Antes de começar, certifique-se de ter instalado em sua máquina:
