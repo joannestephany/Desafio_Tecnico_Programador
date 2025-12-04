@@ -1,4 +1,4 @@
-# Desafio Técnico - Sistema de Gerenciamento de Veículos
+# Backend Desafio SergipeTec
 
 Este projeto é uma API REST para gerenciamento de veículos (carros e motos), desenvolvida em Java utilizando o framework Javalin.
 
