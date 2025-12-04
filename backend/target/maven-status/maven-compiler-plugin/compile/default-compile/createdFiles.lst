@@ -1,0 +1,10 @@
+com\desafio\Main.class
+com\desafio\model\TipoVeiculo.class
+com\desafio\dao\DatabaseConnection.class
+com\desafio\controller\VeiculoController.class
+com\desafio\dao\VeiculosDAO.class
+com\desafio\model\TipoCombustivel.class
+com\desafio\model\Veiculo.class
+com\desafio\model\Carro.class
+com\desafio\model\Moto.class
+com\desafio\service\VeiculoService.class
