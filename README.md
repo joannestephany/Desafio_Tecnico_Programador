@@ -38,6 +38,20 @@ Os arquivos de estrutura do banco e seed para preencher o mesmo podem ser encont
 ```bash
 cd banco
 ```
+Com instruções para reprodução no README.md da pasta.
+
+### Configuração de Conexão
+
+Por padrão, a aplicação tenta conectar com as seguintes credenciais:
+*   **URL**: `jdbc:mysql://localhost:3306/bancodesafio`
+*   **Usuário**: `root`  
+*   **Senha**: `admin` 
+
+Se o seu banco de dados estiver configurado diferente, você pode definir as seguintes variáveis de ambiente antes de rodar a aplicação:
+
+*   `DB_URL`: URL de conexão JDBC (ex: `jdbc:mysql://localhost:3306/meubanco`)
+*   `DB_USER`: Usuário do banco
+*   `DB_PASSWORD`: Senha do banco
 ---
 ## BACKEND
 
@@ -129,7 +143,9 @@ No arquivo `package.json`, você encontrará os seguintes scripts:
 
 
 ## 🎨 Tecnologias Utilizadas
-
+*   [MySQL](https://www.mysql.com)
+*   [Java](https://www.java.com/pt-BR/)
+*   [Javalin](https://javalin.io)
 *   [React](https://react.dev/)
 *   [Vite](https://vitejs.dev/)
 *   [Tailwind CSS](https://tailwindcss.com/)
